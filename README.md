@@ -4,7 +4,7 @@
 
 Hello, my name is [REDACTED]. I'm from Bavaria, Germany, 23 years young and pretty new in the coding business.
 
-## 💫 Liitle Bit More About Me
+## 💫 Liiiitle Bit More About Me
 <p>🔭 I'm currently working on NineAnimator & my personal Portfolio</p>
 <p>🌱 I'm currently learning swift, react and python</p>
 <p>💬 Ask me about Everything</p>
