@@ -27,15 +27,6 @@ Hello, my name is [REDACTED]. I'm from Bavaria, Germany, 23 years young and pret
 <a href="https://www.youtube.com/c/ShowstopperTV"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=show37">
-</p>
-
 ## 📊 Github Status
 
 <p><img src="https://metrics.lecoq.io/show37"><p>
